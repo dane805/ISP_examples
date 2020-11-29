@@ -1,9 +1,10 @@
-1.1. Probability  
-1.2. Probability distribution  
-1.3. pmf vs pdf  
-1.4. Normal distribution  
-1.5. Binomial distribution  
-1.6. Poisson distribution  
-1.7. Standardization and normalization  
-1.8. Approximation  
-1.9. Negative binomial distirbution  
+### 2. More distributions
+- 2.1. Expectation
+- 2.2. Independence
+- 2.3. Sample & statistic
+- 2.4. Chi-squared distribution
+- 2.5. F and t distribution
+- 2.6. Cumulative distribution function
+- 2.7. Quantile
+- 2.8. Compare means
+- 2.9. Secretary problem
