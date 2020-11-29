@@ -1,9 +1,10 @@
-1.1. Probability  
-1.2. Probability distribution  
-1.3. pmf vs pdf  
-1.4. Normal distribution  
-1.5. Binomial distribution  
-1.6. Poisson distribution  
-1.7. Standardization and normalization  
-1.8. Approximation  
-1.9. Negative binomial distirbution  
+### 3. Estimation
+- 3.1. Mean estimation
+- 3.2. Variance estimation
+- 3.3. Mean squared error
+- 3.4. Maximum likelihood estimation
+- 3.5. Central limit theorem
+- 3.6. Confidence interval
+- 3.7. Bootstrap
+- 3.8. Log-likelihood
+- 3.9. Bayes' theorem
