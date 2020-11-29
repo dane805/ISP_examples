@@ -5,7 +5,7 @@
 
 ## 목차
 - 연습 문제들의 분류는 ISP의 목차를 기준으로 했으며, 그 목차는 이하와 같습니다.
-### 1. Probability ans distribution
+### 1. [Probability ans distribution](https://github.com/sichu91/ISP_examples/tree/main/1.Probability_and_distribution)
 - 1.1. Probability
 - 1.2. Probability distribution
 - 1.3. pmf vs pdf
@@ -16,7 +16,7 @@
 - 1.8. Approximation
 - 1.9. Negative binomial distirbution
 
-### 2. More distributions
+### 2. [More distributions](https://github.com/sichu91/ISP_examples/tree/main/1.Probability_and_distribution)
 - 2.1. Expectation
 - 2.2. Independence
 - 2.3. Sample & statistic
@@ -27,7 +27,7 @@
 - 2.8. Compare means
 - 2.9. Secretary problem
 
-### 3. Estimation
+### 3. [Estimation](https://github.com/sichu91/ISP_examples/tree/main/1.Probability_and_distribution)
 - 3.1. Mean estimation
 - 3.2. Variance estimation
 - 3.3. Mean squared error
@@ -38,4 +38,4 @@
 - 3.8. Log-likelihood
 - 3.9. Bayes' theorem
 
-### 4. Hypothesis test
+### 4. [Hypothesis test](https://github.com/sichu91/ISP_examples/tree/main/1.Probability_and_distribution)
