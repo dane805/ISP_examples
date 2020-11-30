@@ -1,4 +1,4 @@
-### 1. Probability ans distribution
+### 1. Probability ans distributions
 - 1.1. Probability
 - 1.2. Probability distribution
 - 1.3. pmf vs pdf
