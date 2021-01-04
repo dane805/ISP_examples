@@ -5,3 +5,5 @@
 - 4.4. ANOVA
 - 4.5. Normality test
 - 4.6. Critical value
+- 4.7. Moving Average
+- 4.8. Benford's distribution
