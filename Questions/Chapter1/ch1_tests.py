@@ -27,9 +27,9 @@ class Question1(unittest.TestCase):
         
 class Question2(unittest.TestCase):
     
-    def __init__(self, fair_dice):
+    def __init__(self, fair_prism):
         super().__init__()
-        self.func = fair_dice
+        self.func = fair_prism
         
     def test_prism_k(self):
         for _ in range(100):
@@ -42,4 +42,19 @@ class Question2(unittest.TestCase):
         
     def run(self):
         self.test_prism_k()
+        print("All tests are passed")
+        
+        
+class Question3(unittest.TestCase):
+    
+    def __init__(self, coin_prob):
+        super().__init__()
+        self.func = coin_prob
+
+    def run(self):
+        p1, p2, p3, p4 = self.func()
+        self.assertEqual(p1, 0.5)
+        self.assertEqual(p2, 0.5)
+        self.assertEqual(p3, 0.25)
+        self.assertEqual(p4, 0.75)
         print("All tests are passed")
